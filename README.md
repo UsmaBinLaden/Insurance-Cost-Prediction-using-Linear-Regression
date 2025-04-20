@@ -1,0 +1,2 @@
+# Insurance-Cost-Prediction-using-Linear-Regression
+# 🌟 Insurance Cost Prediction using Linear Regression --> This project demonstrates how to use **Linear Regression** to predict insurance charges based on user details such as age, sex, BMI, number of children, smoking status, and region.etc. The dataset used is the popular **Insurance Dataset** often used in machine learning for regression tasks
